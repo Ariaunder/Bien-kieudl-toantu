@@ -1,0 +1,66 @@
+Bài 1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+     let Ði?mhóa = prompt('giá tr? c?a di?mhóa: ');
+     let Ði?mlí = prompt('giá tr? c?a di?mlí: ');
+     let Ði?msinh = prompt('giá tr? c?a di?msinh: ');
+     let di?mtrungbình = (di?mhóa + di?mlí + di?msinh)/3
+     document.write("giá tr? c?a di?mtrungbình: " + di?mtrungbình);
+</script>
+</body>
+</html>
+ 
+bài 2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+        let F = prompt('giá tr? c?a F: ');
+        let C = (F-32)/6*5
+    document.write("giá tr? c?a C: " +C);
+</script>
+</body>
+</html>
+
+bài 3
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+       <script>
+               let bankinh = prompt('nh?p giá tr? c?a bán kinh: ');
+               let dientich = bankinh*bankinh*3.14
+           document.write("giá tr? c?a di?n tích: " +dientich);
+       </script>
+</body>
+</html>
+
+bài 4
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+       <script>
+              let duongkinh = prompt('nh?p giá tr? c?a du?ng kính: ')
+              let chuvi = duongkinh*3.14
+           document.write("giá tr? c?a chu vi: " +chuvi);
+       </script>
+</body>
+</html>
+ 
